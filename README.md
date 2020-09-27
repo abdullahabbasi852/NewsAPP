@@ -2,7 +2,7 @@
 A simple news app that aims at providing latest news from various news sources while consuming Api's using Retrofit.
 
 # Description
-News App is an Android application which shows latest worldwide news using the NewsAPI's data realtime. 
+News App is an Android application built using kotlin which shows latest worldwide news using the NewsAPI's data realtime. 
 
 # Requirements
 * Android 4.4 - KITKAT (API 21) or above
