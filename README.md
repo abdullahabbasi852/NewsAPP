@@ -8,7 +8,7 @@ News App is an Android application built using kotlin which shows latest worldwi
 * Android 4.4 - KITKAT (API 21) or above
 * Build with Android Studio 4.0.1
 
-# Getting Started
+# Getting Started 🚀
 To get this project up and running on your local machine, all you need to do is clone or download this project, Open this project in android studio and run it on any android device or emulator.
 
 # Tools
